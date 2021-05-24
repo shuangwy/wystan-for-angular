@@ -1,2 +1,2 @@
 # wystan-for-angular
- Born to learn Angular
+ born to learn angular
